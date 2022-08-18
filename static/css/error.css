@@ -1,0 +1,12 @@
+body{
+    background-color: teal;
+}
+#main{
+    width: 35%;
+    margin: auto;   
+    color: white;
+    text-align: center;
+    /* margin-top: 250px; */
+    align-items: center;
+    font-size: larger;
+}

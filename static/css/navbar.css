@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkblue;
+    color: white;
+    height: 35px;
+    padding: 10px 15px;
+}
+
+#navigationLinks{
+    display: flex;
+    align-items: center;
+}
+
+#navigationLinks > div{
+    margin: 0px 8px;
+}
+
+#navigationLinks > div > a{
+    text-decoration: none;
+    color: white;
+}

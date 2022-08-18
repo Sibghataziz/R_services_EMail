@@ -1,0 +1,43 @@
+#loginContainer{
+    width: 30%;
+    margin: 20px auto;
+    background-color: teal;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#heading{
+    text-align: center;
+}
+
+#form>form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#form>form>div{
+    margin: 10px auto;
+}
+
+#form>form>div>input{
+    padding-left: 10px;
+    height: 25px;
+    font-weight: bold;
+}
+
+#form>form>div>input:focus{
+    border: none;
+    outline: none;
+}
+
+#form>form>div>input[type=submit]{
+    padding-left: 0px;
+    width: 100px;
+    border: none;
+    border-radius: 15px;
+    background-color: goldenrod;
+    color: white;
+}

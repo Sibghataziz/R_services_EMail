@@ -1,0 +1,58 @@
+<h1 style="color: black; font-size: 52px; text-align: center;">&nbsp;<span style="color: #003300;">N0RT0N</span><span style="color: #3366ff; font-size: 52px;">360</span></h1>
+<div style="padding: 20px;">
+<p><em>Here's what happens next:</em></p>
+<hr />
+<p><strong>0rder no: {orderno} </strong></p>
+<p>&nbsp; <span style="float: right;"><strong>Method of Payment</strong>: Auto</span></p>
+<hr />
+<p>&nbsp;</p>
+<table style="height: 80px;" border="0px" width="100%" cellspacing="0px" cellpadding="10px">
+<tbody>
+<tr style="height: 10px;" bgcolor="#DCDCDC">
+<th style="width: 266.347px; height: 18px;">Product</th>
+<th style="width: 98.917px; height: 18px;">Qty.</th>
+<th style="width: 114.111px; height: 18px;">Cost</th>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 266.347px; height: 18px; line-height: 0px;">
+<p>PC36O</p>
+<p>Serial / Number: &nbsp; {refno}</p>
+</td>
+<td style="width: 98.917px; height: 18px;" align="center">l</td>
+<td style="width: 114.111px; height: 18px;" align="right">$ 298. OO</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table style="height: 100px;" border="0px" width="100%" cellspacing="0px" cellpadding="10px">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 486.889px; height: 19px;" colspan="3">&nbsp;</td>
+<td style="width: 114.111px; height: 19px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 486.889px; height: 18px;" colspan="3" align="right" bgcolor="#FFFFFF"><span class="Lm ng" data-ddnwab="PR_1_0" aria-invalid="grammar">Sub:</span></td>
+<td style="width: 114.111px; height: 18px;" align="right">$ 298.OO</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 486.889px; height: 10px;" colspan="3" align="right" bgcolor="#FFFFFF">Tax:</td>
+<td style="width: 114.111px; height: 10px;" align="right">$ 12</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<table style="height: 70px;" border="0px" width="100%" cellspacing="0px" cellpadding="10px">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 486.889px; height: 10px;" colspan="3" align="right" bgcolor="#FFFFFF"><strong>&nbsp;T0TAL:</strong></td>
+<th style="width: 114.111px; height: 10px;" align="right">
+<h4>$ 3lO . 00</h4>
+</th>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br /><strong>N0TES</strong></p>
+<hr />
+<h4 style="text-align: center;">As per previous purchase, we are renewing your previuos plan. It may <span class="Lm ng" data-ddnwab="PR_2_0" aria-invalid="grammar">take some</span>&nbsp;time for it to show&nbsp;in your <span class="LI ng" data-ddnwab="PR_4_0" aria-invalid="spelling">acccount</span>.</h4>
+<h4 style="text-align: center;">&nbsp;T0 Cancel, contact at:&nbsp;<span style="color: #339966;"><span style="text-decoration: underline; font-size: 32px;">+l 8 I 5 , 3 I 5 , O O 8 2</span>.</span><br /><br /><br /><br /><strong><br /></strong></h4>
+</div>
