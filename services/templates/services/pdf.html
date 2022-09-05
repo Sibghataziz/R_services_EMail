@@ -1,0 +1,50 @@
+{% extends 'authenticatedHome.html' %} {% load static %} {% block link %}
+<link rel="stylesheet" href="{% static 'css/form.css' %}" />
+{% endblock %} {% block title %} Send Pdf {% endblock %} {% block content %}
+<div id="main">
+  <form method="POST">
+    {% csrf_token %}
+    <div>
+      {{form.Content.label}}: <br />
+      {{form.Content}}
+    </div>
+
+    <div>
+      {{form.Emails.label}}: <br />
+      {{form.Emails}}
+    </div>
+
+    <div>
+      <div>
+        {{form.TextBox.label}}: <br />
+        {{form.TextBox}}
+      </div>
+      <div>
+        {{form.Subject.label}}: <br />
+        {{form.Subject}}
+      </div>
+
+      <div>
+        {{form.Username.label}}: <br />
+        {{form.Username}}
+      </div>
+
+      <div>
+        {{form.Your_Email.label}}: <br />
+        {{form.Your_Email}}
+      </div>
+
+      <div>
+        {{form.Your_Two_Factor_Password.label}}: <br />
+        {{form.Your_Two_Factor_Password}}
+      </div>
+
+      <div>
+        <input type="submit" />
+      </div>
+    </div>
+
+    <!-- {{form}} -->
+  </form>
+</div>
+{% endblock %}
